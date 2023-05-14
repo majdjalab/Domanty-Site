@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="1137px" height="130px" viewBox="0 0 1137 130" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L1137 0L1137 130L0 130L0 0Z" id="path_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="إطار" clip-path="url(#clip_1)">
+    <path d="M0 0L1137 0L1137 130L0 130L0 0Z" id="إطار" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+    <path d="M393 66L1093 66" id="خط-4" fill="none" fill-rule="evenodd" stroke="#222222" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M43.4415 37L743.442 37" id="خط" fill="none" fill-rule="evenodd" stroke="#222222" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M208.497 91.2L858.497 91.2" id="خط-3" fill="none" fill-rule="evenodd" stroke="#222222" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</svg>
